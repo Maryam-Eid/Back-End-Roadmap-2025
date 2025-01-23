@@ -8,7 +8,7 @@
       <img src="https://laravel.com/img/logotype.min.svg" width="200px" alt="Laravel">
     </a>
   </p>
-
+<br><br>
 <h2>📌 Roadmap Levels</h2>
 
   <table>
@@ -33,6 +33,8 @@
       </tr>
     </tbody>
   </table>
+
+<br><br>
 
 <h2 id="entry-level">🎯 Entry Level (3 Weeks)</h2>
 
@@ -107,7 +109,7 @@
       </tr>
     </tbody>
   </table>
-
+<br>
 <h2>📌 Week 2</h2>
 
   <table>
@@ -144,6 +146,7 @@
       </tr>
     </tbody>
   </table>
+<br>
 
 <h2>📌 Week 3</h2>
 
@@ -179,6 +182,7 @@
     </tbody>
   </table>
 
+<br><br>
 <h2 id="beginner-level">🔍 Beginner Level (13 Weeks)</h2>
 
 <h2>📌 Week 1</h2>
@@ -206,6 +210,7 @@
       </tr>
     </tbody>
   </table>
+<br>
 
 <h2>📌 Week 2</h2>
 
@@ -236,6 +241,7 @@
       </tr>
     </tbody>
   </table>
+<br>
 
 <h2>📌 Week 3</h2>
 
@@ -267,6 +273,7 @@
       </tr>
     </tbody>
   </table>
+<br>
 
 <h2>📌 Week 4</h2>
 
@@ -292,6 +299,7 @@
       </tr>
     </tbody>
   </table>
+<br>
 
 <h2>📌 Week 5</h2>
 📖 <a href="books/Matt%20Stauffer%20-%20Laravel_%20Up%20&%20Running_%20A%20Framework%20for%20Building%20Modern%20PHP%20Apps-O’Reilly%20Media%20(2019).pdf">
@@ -315,6 +323,7 @@ Laravel Up & Running</a><strong> Highly Recommended</strong>
       </tr>
     </tbody>
   </table>
+<br>
 
 <h2>📌 Week 6</h2>
 
@@ -338,6 +347,7 @@ Laravel Up & Running</a><strong> Highly Recommended</strong>
       </tr>
     </tbody>
   </table>
+<br>
 
 <h2>📌 Week 7</h2>
 
@@ -359,6 +369,7 @@ Laravel Up & Running</a><strong> Highly Recommended</strong>
       </tr>
     </tbody>
   </table>
+<br>
 
 <h2>📌 Week 8</h2>
 
@@ -380,6 +391,7 @@ Laravel Up & Running</a><strong> Highly Recommended</strong>
       </tr>
     </tbody>
   </table>
+<br>
 
 <h2>📌 Week 9</h2>
 
@@ -401,6 +413,7 @@ Laravel Up & Running</a><strong> Highly Recommended</strong>
       </tr>
     </tbody>
   </table>
+<br>
 
 <h2>📌 Week 10</h2>
 
@@ -422,6 +435,7 @@ Laravel Up & Running</a><strong> Highly Recommended</strong>
       </tr>
     </tbody>
   </table>
+<br>
 
 <h2>📌 Week 11</h2>
 
@@ -445,6 +459,7 @@ Laravel Up & Running</a><strong> Highly Recommended</strong>
       </tr>
     </tbody>
   </table>
+<br>
 
 <h2>📌 Week 12</h2>
 
@@ -469,6 +484,7 @@ Laravel Up & Running</a><strong> Highly Recommended</strong>
       </tr>
     </tbody>
   </table>
+<br>
 
 <h2>📌 Week 13</h2>
 
@@ -493,7 +509,7 @@ Laravel Up & Running</a><strong> Highly Recommended</strong>
       </tr>
     </tbody>
   </table>
-
+<br><br>
 
 <h2 id="intermediate-level">🚀 Intermediate Level (3 Weeks)</h2>
 
@@ -526,6 +542,7 @@ Laravel Up & Running</a><strong> Highly Recommended</strong>
       </tr>
     </tbody>
   </table>
+<br>
 
 <h2>📌 Week 2</h2>
 
@@ -550,6 +567,7 @@ Laravel Up & Running</a><strong> Highly Recommended</strong>
       </tr>
     </tbody>
   </table>
+<br>
 
 <h2>📌 Week 3</h2>
 
@@ -579,5 +597,6 @@ Laravel Up & Running</a><strong> Highly Recommended</strong>
       </tr>
     </tbody>
   </table>
+<br>
 
 </body>
