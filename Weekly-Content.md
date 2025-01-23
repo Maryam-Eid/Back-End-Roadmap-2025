@@ -2,12 +2,10 @@
 
   <h1>BackEnd Squad Roadmap (Laravel)</h1>
 
-  <p align="center">
-    <a href="https://laravel.com/" style="text-decoration: none;">
-      <img src="https://laravel.com/img/logomark.min.svg" width="200px" alt="Laravel">
-      <img src="https://laravel.com/img/logotype.min.svg" width="200px" alt="Laravel">
-    </a>
-  </p>
+<p style="display: flex; align-items: center; justify-content: space-arround; flex-wrap: wrap">
+  <a href="https://laravel.com/"><img src="https://laravel.com/img/logomark.min.svg" width="400px" height="200px" alt="Laravel"></a>
+  <a href="https://laravel.com/"><img src="https://laravel.com/img/logotype.min.svg" width="400px" height="200px" alt="Laravel"></a>
+</p>
 <br><br>
 <h2>📌 Roadmap Levels</h2>
 
