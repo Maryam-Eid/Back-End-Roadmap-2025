@@ -13,7 +13,9 @@
 
 🔗 [Intermediate](#intermediate)
 
-🔗 [Advanced](#advanceda)
+🔗 [Advanced](#advanced)
+
+<br>
 
 ## Entry:
 
@@ -136,6 +138,8 @@
 🌐 [Version Source Control | التحكم بالاصدارت](https://www.youtube.com/watch?v=Jaqrcw_MB9E&list=PL4n1Qos4Tb6R4guGC4oX_PZVt8E8XpvqE)
 
 </details>
+
+<br>
 
 ## Beginner:
 
@@ -291,6 +295,8 @@
 
 > ***Here You Need to Search About API Documentation***
 
+<br>
+
 ## Intermediate:
 
 <details>
@@ -336,6 +342,8 @@ OR
 
 
 </details>
+
+<br>
 
 ## Advanced:
 
@@ -433,6 +441,8 @@ OR
 📖 [Martin Fowler](https://martinfowler.com/books/)
 
 </details>
+
+<br>
 
 ### Integration and Deployment:
 
