@@ -3,7 +3,7 @@
   <h1>BackEnd Squad Roadmap (Laravel)</h1>
 
   <p align="center">
-    <a href="https://laravel.com/">
+    <a href="https://laravel.com/" style="text-decoration: none;">
       <img src="https://laravel.com/img/logomark.min.svg" width="200px" alt="Laravel">
       <img src="https://laravel.com/img/logotype.min.svg" width="200px" alt="Laravel">
     </a>
