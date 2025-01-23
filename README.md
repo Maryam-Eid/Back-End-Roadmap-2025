@@ -1,53 +1,20 @@
-# Back End Squad Roadmap
+# BackEnd Squad Roadmap (Laravel)
 
 <p style="display: flex; align-items: center; justify-content: space-arround; flex-wrap: wrap">
-  <a href="https://laravel.com/"><img src="assets/repo/laravel_logo.svg" width="400px" height="200px" alt="Laravel"></a>
-  <a href="https://www.djangoproject.com/"><img src="assets/repo/dj.png" width="300px" height="150px" alt="Django"></a>
-  <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework"><img src="assets/repo/ASP.png" width="250" height="250" alt=".NET"></a>
+  <a href="https://laravel.com/"><img src="https://laravel.com/img/logomark.min.svg" width="400px" height="200px" alt="Laravel"></a>
 </p>
 
-## General Keys :
-🔗 [Laravel - PHP](#-laravel---php)
+## Roadmap Levels:
 
-🔗 [Django - Python](#-django---python)
-
-🔗 [ASP.Net  Core - C#](#-aspnet---c)
-
-## Roadmap General Topics Keys:
-
-🔗 [Preparation](#preparation)
-
-🔗 [Entry & Basics ](#entry--basics)
+🔗 [Entry](#entry)
 
 🔗 [Beginner](#beginner)
 
-# General Topics:
-## Preparation:
+🔗 [Intermediate](#intermediate)
 
-<details>
- <summary>CS Introduction </summary>
+🔗 [Advanced](#advanceda)
 
-
-[Data Structures](https://www.youtube.com/watch?v=owCqVRbZlbg&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
-
-#### OR
-
-[Data Structures Easy to Advanced Course](https://www.youtube.com/watch?v=RBSGKlAvoiM)
-________________________________________________________
-
-
-[Programiz Website](https://www.programiz.com/dsa/data-structure-types)
-
-[ Introductions to Algorithms](https://www.youtube.com/watch?v=8hly31xKli0&t=2s)
-
-
-#### Recommended Books
-[Grokking Algorithms](https://bit.ly/3xl71jO)
-</details>
-
-
-## Entry & Basics:
-
+## Entry:
 
 <details>
  <summary>How the Internet Works</summary>
@@ -59,7 +26,9 @@ ________________________________________________________
 #### OR
 
 🛜 [How does the internet work? (Full Course)](https://www.youtube.com/watch?v=zN8YNNHcaZc)
+
 #### OR
+
 [كيف يعمل الإنترنت؟](https://www.youtube.com/watch?v=TnMNDQHB33Q)
 </details>
 
@@ -68,7 +37,9 @@ ________________________________________________________
  <summary>What is HTTP?</summary>
 
 🛜 [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+
 #### OR
+
 🧾 [Everything you need to know about HTTP](https://cs.fyi/guide/http-in-depth)
 </details>
 
@@ -92,8 +63,11 @@ ________________________________________________________
  <summary>ملخص ايه اللى بيحصل من وراك لما بتفتح موقع انترنت</summary>
 
 🛜 [OSI Layers](https://www.youtube.com/watch?v=A31bxOyj5mk&t=10s)
+
 ### NOTE:
+
 #### You Need To Search For New Terms After This Video.
+
 </details> 
 
 <details>
@@ -107,8 +81,6 @@ ________________________________________________________
 
 </details>
 
-## Beginner:
-
 <details>
  <summary>Some Front Basics</summary>
 
@@ -116,11 +88,11 @@ ________________________________________________________
 
 📽️ [HTML & CSS - Crash  Course Arabic](https://www.youtube.com/watch?v=aHzw_8wWl48)
 
-📽️ [JS  - Crash Course](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+📽️ [JS - Crash Course](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 
-📽️ [AJAX  - Crash Course](https://www.youtube.com/watch?v=82hnvUYY6QA)
+📽️ [AJAX - Crash Course](https://www.youtube.com/watch?v=82hnvUYY6QA)
 
-📽️ [JSON  - Crash Course](https://www.youtube.com/watch?v=wI1CWzNtE-M)
+📽️ [JSON - Crash Course](https://www.youtube.com/watch?v=wI1CWzNtE-M)
 
 
 </details>
@@ -131,15 +103,12 @@ ________________________________________________________
 
 📽️ [Database Design Course](https://www.youtube.com/watch?v=ztHopE5Wnpc)
 
- **Note:**
-> If You Are Taking The Asp Path, You Can Watch The Db Content From The Asp Db Resource, But Database Design Is Covered In This Section.
-
-
 📽️ [MySQL Tutorial for Beginners](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 
 📽️ [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 
 #### OR
+
 📽️ [Database Fundamentals](https://maharatech.gov.eg/course/view.php?id=740) ***DB Design***
 
 📽️ [مقرر أساسيات قواعد البيانات - DB 1](https://www.youtube.com/playlist?list=PL37D52B7714788190)
@@ -169,6 +138,7 @@ ________________________________________________________
 📽️ [Git & GitHub - Arabic, Almdrasa](https://almdrasa.com/tracks/programming-foundations/courses/git-github/)
 
 #### OR
+
 🌐 [Version Source Control | التحكم بالاصدارت](https://www.youtube.com/watch?v=Jaqrcw_MB9E&list=PL4n1Qos4Tb6R4guGC4oX_PZVt8E8XpvqE)
 
 > Keep Deep
@@ -177,10 +147,8 @@ ________________________________________________________
 
 </details>
 
-> [!IMPORTANT]
-> From Here Feel Free To Choose Any Path You Want To Start With. ***OFC. After You Finish The Basics & Search About Different Paths***
+## Beginner:
 
-# # Laravel - PHP
 <details>
 
  <summary>PHP Basics</summary>
@@ -189,13 +157,15 @@ ________________________________________________________
 
 📹 [Phpstorm](https://laracasts.com/series/phpstorm-for-laravel-developers)
 
-
 📽️ [Learn PHP 8 In Arabic](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq)
 
 #### OR
-📽️ [Full PHP 8 Tutorial - Until 33](https://www.youtube.com/watch?v=sVbEyFZKgqk&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-) ** Recommended
+
+📽️ [Full PHP 8 Tutorial - Until 33](https://www.youtube.com/watch?v=sVbEyFZKgqk&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-) **
+Recommended
 
 #### OR
+
 📽️ [PHP Programming Language Tutorial - Full Course](https://www.youtube.com/watch?v=OK_JCtrrv-c)
 
 </details>
@@ -209,12 +179,16 @@ ________________________________________________________
 📽️ [Learn Object Oriented PHP - Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
 
 #### OR
-📽️ [OOP in Arabic - Omar Ahmed](https://www.youtube.com/watch?v=sVbEyFZKgqk&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-) ***Java But Highly Recommended***
+
+📽️ [OOP in Arabic - Omar Ahmed](https://www.youtube.com/watch?v=sVbEyFZKgqk&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
+***Java But Highly Recommended***
 
 #### OR
+
 📽️ [Object Oriented PHP Tutorials - English](https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
 
 #### OR
+
 📽️ [Object-Oriented Principles in PHP](https://laracasts.com/series/object-oriented-principles-in-php) ***Paid***
 
 > You Can See it As A Refresh Your Knowledge As Crash Course
@@ -229,15 +203,19 @@ ________________________________________________________
 📽️ [MVC Explained - Arabic](https://www.youtube.com/watch?v=2Q69R0GD9zM)
 
 #### OR
+
 📽️ [MVC Explained - English](https://www.youtube.com/watch?v=DUg2SWWK18I)
 
 #### AND
+
 📽️ [PHP MVC Framework from scratch - English ](https://www.youtube.com/watch?v=q0JhJBYi4sw)
 
 #### OR
+
 📽️ [PHP MVC project in arabic](https://www.youtube.com/playlist?list=PL7mt2FDjAkPepYrMofOwTwxQwJSlZ8N-a)
 
 #### OR
+
 📽️ [PHP MVC - Arabic](https://www.youtube.com/watch?v=G9ZQNT9M3Hc&list=PLv-kDGQ3al9t6kNKTxxWMog_GES3-XLm1)
 
 > After Watching The Previous You Need To Deep and Practise So Must See It
@@ -251,9 +229,11 @@ ________________________________________________________
 📽️ [medical project using php and mysql and ajax - Arabic](https://www.youtube.com/watch?v=7SSAycLnrsM&list=PLe_UJpVeP8qDV8zpkvCyjOQQPKPkwZ-6p)
 
 #### OR
+
 📽️ [Complete Mobile Shopee E-Commerce Website Course - PHP & MySQL](https://www.youtube.com/watch?v=KLWA2vCERSQ)
 
 #### AND
+
 📽️ [Create a PHP Application | PHP MVC Project Tutorial](https://www.youtube.com/watch?v=Rkg731t47dc&t=1s&ab_channel=DaveGray)
 
 </details>
@@ -266,6 +246,7 @@ ________________________________________________________
 📽️ [Laravel 8 From Scratch - Jeffry Way](https://laracasts.com/series/laravel-8-from-scratch) ***Highly Recommended***
 
 #### OR
+
 📽️ [Laravel From Scratch ](https://www.youtube.com/watch?v=376vZ1wNYPA)
 
 📽️ [Laravel 10 Beginners Course](https://youtube.com/playlist?list=PLqDySLfPKRn5d7WbN9R0yJA9IRgx-XBlU&si=ei_2kJF0FwaK03Ge)
@@ -308,11 +289,13 @@ ________________________________________________________
 
 📽️ [Laravel API Crash Course For Beginners](https://www.youtube.com/watch?v=xvqPEEpRBJ4&list=LL&index=3&t=11s)
 
-📽️ [Laravel MentorSHIP: Travel API](https://www.youtube.com/playlist?list=PLdXLsjL7A9k2utMAieXUnUP8zyxaDA3mP) ***Recommended After One Or Two Videos Watched***
+📽️ [Laravel MentorSHIP: Travel API](https://www.youtube.com/playlist?list=PLdXLsjL7A9k2utMAieXUnUP8zyxaDA3mP)
+***Recommended After One Or Two Videos Watched***
 </details>
 
 > ***Here You Need To Search About API Documentation***
-#### Intermediate:
+
+## Intermediate:
 
 <details>
   <summary>Read about Laravel best practices & Tips</summary>
@@ -333,7 +316,6 @@ ________________________________________________________
   <summary>Laravel Testing</summary>
 
 📹 [Laravel Testing - LaravelDaily](https://www.youtube.com/watch?v=BuDger5Ytbc&list=PLdXLsjL7A9k0esh2qNCtUMsGPLUWdLjHp)
-
 
 📹 [Laravel Testing - Laracasts](https://laracasts.com/series/build-a-laravel-app-with-tdd)
 
@@ -359,164 +341,8 @@ OR
 
 </details>
 
---------------------------------------------------------
-# # Django - Python
+## Advanced:
 
-- [Python Basics](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=6dJUvnt3gyyANybO)
-
-- [OOP](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=6dJUvnt3gyyANybO)
-
-- [Django Basics](https://youtube.com/playlist?list=PL2z1gXAKH9c3XUn2HYMWRbAon4z6AQ4CL&si=DFu4WEykODIyNbKA)
-
-- [Django ORM](https://youtube.com/playlist?list=PLOLrQ9Pn6cazjoDEnwzcdWWf4SNS0QZml&si=NwYIqVaAh53uZi7Z)
-
-
-<br>
-<details>
-
-<summary>Start To Create Django Projects</summary>
-
-- [Protfolio resume project](https://youtu.be/pLN-OnXjOJg?si=VVUSW1foiNtkKs5t)
-
-- [Todo Project](https://youtu.be/4RWFvXDUmjo?si=LeXdC-vWVGUx-RUM)
-
-- [Voting App](https://youtu.be/dPoGRYz-n5E?si=2HBaKimeH0eIpO2v)
-
-- [Todo App With Authentication](https://youtu.be/llbtoQTt4qw?si=mHJQsp7zgDDhXM7p)
-
-- [Chat System](https://www.youtube.com/watch?v=cw8-KFVXpTE)
-
-
-</details>
-
-
-<br>
-
-```
-This incoming technologies is very important for you.
-As you will use it for work in companies.
-```
-
-<br>
-
-- [Django Rest Framework ](https://youtube.com/playlist?list=PLXqhO5lRtxJV6oWcW2vlPHRzRFF6gVvc3&si=OoxMHr4_NETs7Yre)
-
-
-- [Postman](https://www.youtube.com/watch?v=NDKlI0DvolY)
-
-- [CRUD](https://youtu.be/oj7DEXQdVqw?si=Eq34ZItKfxfu3qfR)
-
-- [JWT Authentication](https://youtu.be/pUBAYMMpx3I?si=wl00ljNLiEiI6MzT)
-
-- [Pagination](https://www.youtube.com/watch?v=ZgmF6AX3U7E)
-
-- [Redis](https://www.youtube.com/watch?v=tJVNUYvjTUk)
-
-- [Celery](https://youtube.com/playlist?list=PLLz6Bi1mIXhHKA1Szy2aj9Jbs6nw9fhNY&si=MlSTRVIFBtlH7FBm)
-
-- [Docker - #1 -> #4](https://youtube.com/playlist?list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C&si=NMMhdArWo3EM9T_6)
-
---------------------------------------------------------
-
-# # Asp.net - C# 
-
-> [!TIP]
-> This Roadmap Guides Aspiring C# Developers, From Beginners To Intermediates, On Their Learning Journey. It Outlines Essential Topics, Resources, And Best Practices To Navigate The .Net Ecosystem Effectively.
-
-
-## Prerequisites
-
-- Passion for coding
-- Basic understanding of programming concepts
-
-## Beginner Level
-
-**C# Syntax and Fundamentals:**
-
-- **[ITI C# Courses](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)** 
-- **[Passionate Coders C# Tutorial](https://www.youtube.com/watch?v=yqUeKsXwfRE&list=PL5RGzfpIj4jEhPZGKf7cRTp_k4-PzcEmZ&index=3)** 
-
-**Intermediate (OOP):** 
-* **[Issam Abd Elnabi (OOP videos only)](https://youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)** (highly recommended)
-* **[passionate coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQumtM4rQc77yjbkZcGOTX5)** 
-
-
-**Advanced C#**
-* **[Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQYhO7NqlBTrJX_Nsk3SmyY)**
-* **[Issam Abd Elnabi](https://youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)**
-* **[TimCorey](https://www.youtube.com/playlist?list=PLLWMQd6PeGY12yNE714jffLFnMVZCwvvZ)**
-
-
-**Highly Recommended Books**
-* Illustrated C# 7
-* C# in nutshell (reference)
-
-**Databases:**
-
-- **SQL Server (DBMS):**
-    - **[Issam AbdelNabi SQL Server Course](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)** 
-    - **[الدسوقي SQL Server](https://youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE&si=atTZYq1KGo_LdHUo)** 
-
-
-- **Query Language in C# (LINQ):**
-    - **[Issam's LINQ Resources](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6)** 
-    - **[FreeCodeCamp LINQ Tutorials](https://www.youtube.com/watch?v=5l2qA3Pc83M&t=3849s)** 
-
-- **EF Core (ORM)**
-  - **[DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp)**
-  - **[Issam Abd Elnabi](https://youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv)** 
-
-**Solid Principles**
-
-- **[Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq)** 
-- **[Issam's Solid Principles Course](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6ThSyydEJTm7xJ3qEwE8Oyu)** 
-
-**Design Patterns:**
-
-- **[Pasionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq)** (recommended)
-- **[Issam's Design Patterns Resources](https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR)** 
-
-
-**Web Development with ASP.NET Core:**
-
-- **Essential courses:**
-    - **[ASP.NET Core for Beginners](https://www.youtube.com/playlist?list=PLLWMQd6PeGY12yNE714jffLFnMVZCwvvZ)**
-    - **[Dependency Injection and Life Cycles by Tim Corey](https://www.youtube.com/watch?v=Hhpq7oYcpGE)**
-    - **[MVC Pattern Introduction](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC)**
-    - **[Practice with a small CRUD project.](https://www.youtube.com/playlist?list=PL62tSREI9C-c-Zw9Pafbd7VQTfZMtn8yQ)**
-
-- **Web Api**
-    - **[Web APIs with Devcreed Tutorials](https://www.youtube.com/playlist?list=PL62tSREI9C-c_yZ0a7Yui1U22Tv4mBjSF)**
-
-- **[Repository Pattern](https://www.youtube.com/playlist?list=PL62tSREI9C-e6nQ47brLj00iSGddiee73)**
-
-
-### Authentication & Security
-* **[ASP.NET Core API with JWT Authentication](https://www.youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd)** 
-* **[JWT Refresh Tokens In .Net 6 (Core)](https://www.youtube.com/playlist?list=PL62tSREI9C-foV0zXVpW_f0JNtTD6Wv2W)**
-
-* **Pro ASP.NET Core 6 (Chapters on Authentication & Authorization):** Deepen your understanding with recommended book chapters (refer to book for specific chapters).
-
-### Caching & Unit Testing
-
-* **[Memory Cache](https://www.youtube.com/playlist?list=PL62tSREI9C-foV0zXVpW_f0JNtTD6Wv2W)**
-* **[Unit Testing](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RrQpmpGWALaE1PVvWR8d3A)** 
-
-## Advance & Important Concepts
-
-* **[Shiv Kumar's C# Playlist](https://www.youtube.com/playlist?list=PLJ0hAqAAdnpD5ohNkTH_TMnes0tDa6cua)** Explore advanced topics through extensive video tutorials. 
-
-* **[tutorialsEU - C#](https://www.youtube.com/playlist?list=PLSr9CPTtmP9js0n4XOmI4vfKeVvlS32PA)** Find additional resources for specific topics as needed.
-
-
-### Reference Books
-
-* **Pro ASP.NET Core** Master practical web development techniques.
-* **ASP.NET Core in Action** Gain comprehensive knowledge of the ASP.NET Core framework.
-* **Building Web APIs with ASP.NET Core** 
-----------------------------------------
-
-## Advanced General:
 <details>
 
   <summary>More Data Structures and Algorithms</summary>
@@ -528,7 +354,7 @@ As you will use it for work in companies.
 
 📹 [Advanced Database Systems - CMU](https://www.youtube.com/watch?v=LWS8LEQAUVc&list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn)
 </details>
-</details><details>
+<details>
 
   <summary>NoSQL Database Tutorial</summary>
 
@@ -581,6 +407,7 @@ As you will use it for work in companies.
 📹 [Arabic PHP Design Pattern](https://www.youtube.com/watch?v=hYas1gMp2nM&list=PLdYYj2XLw5BnpInmR103TyVwFd_CLI6IS&ab_channel=RamyHakam)
 
 📹 [Head First Design Pattern As an English Playlist](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+
 ##### Website
 
 🖇️ [Refactoring GURU Design Pattern](https://refactoring.guru/design-patterns)
@@ -645,6 +472,7 @@ As you will use it for work in companies.
 <details>
 
 <summary>Deployment</summary> 
+
 📹 [Deploy on digital oceans](https://www.youtube.com/watch?v=QnNA7YdvCYA&list=PLseEp7p6EwiZrR_9dzp8d3AVcBqPz-HFZ&index=3)
 
 📹 [Deploy on shared hosting](https://www.youtube.com/watch?v=6g8G3YQtQt4)
