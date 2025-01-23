@@ -55,7 +55,7 @@
 </details>
 
 <details>
- <summary>How does a browser work ?</summary>
+ <summary>How Does a Browser Work?</summary>
 
 🛜 [How Does a Browser Work? | Engineering Side](https://www.youtube.com/watch?v=5rLFYtXHo9s)
 
@@ -116,7 +116,7 @@
 <details>
  <summary>UML & Modeling - Requirements Analysis </summary>
 
-***You Need To Search More In This Section***
+***You Need to Search More in this Section***
 
 📽️ [UML Diagrams Full Course](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
 
@@ -168,14 +168,14 @@
 <details>
  <summary>PHP OOP</summary>
 
-***You Need To Search After Watching Any Video***
+***You Need to Search after Watching Any Video***
 
 📽️ [Learn Object-Oriented PHP - Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
 
 #### OR
 
-📽️ [OOP in Arabic - Omar Ahmed](https://www.youtube.com/watch?v=sVbEyFZKgqk&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
-***Java But Highly Recommended***
+📽️ [OOP in Arabic - Omar Ahmed](https://www.youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v)
+***Java but Highly Recommended***
 
 #### OR
 
@@ -185,7 +185,7 @@
 
 📽️ [Object-Oriented Principles in PHP](https://laracasts.com/series/object-oriented-principles-in-php) ***Paid***
 
-> You Can See it As A Refresh Your Knowledge As Crash Course
+> You Can See it as a Refresh Your Knowledge as Crash Course
 
 📽️ [Introduction to OOP](https://www.youtube.com/watch?v=gUNVnOIK7CM&list=PL71ekc7LvuXK5irXyxo2tRI8fm9QIm0Gj)
 
@@ -212,7 +212,7 @@
 
 📽️ [PHP MVC - Arabic](https://www.youtube.com/watch?v=G9ZQNT9M3Hc&list=PLv-kDGQ3al9t6kNKTxxWMog_GES3-XLm1)
 
-> After Watching The Previous You Need To Deep and Practise So Must See It
+> After Watching the Previous You Need to Deep and Practise so Must See it
 >
 📽️ [PHP for Beginners Laracasts 2023-Ed - English](https://laracasts.com/series/php-for-beginners-2023-edition)
 </details>
@@ -263,7 +263,7 @@
 
 📽️ [Laravel From Scratch 2022 - Laragigs](https://www.youtube.com/watch?v=MYyJ4PuL4pY&list=LL&index=3)
 
-***After That You Need to Apply Alone - Search About Templates***
+***After That You Need to Apply Alone - Search about Templates***
 
 🌐 [Like Those](https://bootstrapmade.com/bootstrap-resume-cv-templates/)
 </details>
