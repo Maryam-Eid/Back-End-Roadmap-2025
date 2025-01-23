@@ -2,6 +2,7 @@
 
 <p style="display: flex; align-items: center; justify-content: space-arround; flex-wrap: wrap">
   <a href="https://laravel.com/"><img src="https://laravel.com/img/logomark.min.svg" width="400px" height="200px" alt="Laravel"></a>
+  <a href="https://laravel.com/"><img src="https://laravel.com/img/logotype.min.svg" width="400px" height="200px" alt="Laravel"></a>
 </p>
 
 ## Roadmap Levels:
@@ -25,7 +26,7 @@
 
 #### OR
 
-🛜 [How does the internet work? (Full Course)](https://www.youtube.com/watch?v=zN8YNNHcaZc)
+🛜 [How Does the Internet Work? (Full Course)](https://www.youtube.com/watch?v=zN8YNNHcaZc)
 
 #### OR
 
@@ -40,7 +41,7 @@
 
 #### OR
 
-🧾 [Everything you need to know about HTTP](https://cs.fyi/guide/http-in-depth)
+🧾 [Everything You Need to Know About HTTP](https://cs.fyi/guide/http-in-depth)
 </details>
 
 <details>
@@ -54,13 +55,13 @@
 <details>
  <summary>How does a browser work ?</summary>
 
-🛜 [How does a browser work ? | Engineering side](https://www.youtube.com/watch?v=5rLFYtXHo9s)
+🛜 [How Does a Browser Work? | Engineering Side](https://www.youtube.com/watch?v=5rLFYtXHo9s)
 
 </details>
 
 
 <details>
- <summary>ملخص ايه اللى بيحصل من وراك لما بتفتح موقع انترنت</summary>
+ <summary>OSI layers</summary>
 
 🛜 [OSI Layers](https://www.youtube.com/watch?v=A31bxOyj5mk&t=10s)
 
@@ -73,47 +74,40 @@
 <details>
  <summary>Command Line</summary>
 
-🛜 [ كورس أساسيات Command Line ](https://www.youtube.com/watch?v=wmZMMcm7zWA)
+🛜 [ كورس أساسيات Command Line](https://www.youtube.com/watch?v=wmZMMcm7zWA)
 
 #### OR
 
 [[Arabic] Learn Command Line #01 - Intro and What's Shell, Terminal, CMD](https://www.youtube.com/watch?v=JVs2Ywy7wGQ&list=PLDoPjvoNmBAxzNO8ixW83Sf8FnLy_MkUT)
 
 </details>
-
+<br>
 <details>
- <summary>Some Front Basics</summary>
+ <summary>HTML & CSS</summary>
 
-📽️ [HTML - Arabic 1 - 32](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
+📽️ [HTML - Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 
-📽️ [HTML & CSS - Crash  Course Arabic](https://www.youtube.com/watch?v=aHzw_8wWl48)
+#### OR
 
-📽️ [JS - Crash Course](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+📽️ [HTML - English](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+
+📽️ [CSS - Arabic](https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
+
+#### OR
+
+📽️ [CSS - English](https://www.youtube.com/watch?v=wRNinF7YQqQ)
+
+📽️ [HTML & CSS - Crash Course Arabic](https://www.youtube.com/watch?v=aHzw_8wWl48)
+</details>
+<details>
+ <summary>JS & AJAX & JSON</summary>
+
+📽️ [JS - Crash Course - English](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 
 📽️ [AJAX - Crash Course](https://www.youtube.com/watch?v=82hnvUYY6QA)
 
 📽️ [JSON - Crash Course](https://www.youtube.com/watch?v=wI1CWzNtE-M)
 
-
-</details>
-
-
-<details>
- <summary>Introduction To Database</summary>
-
-📽️ [Database Design Course](https://www.youtube.com/watch?v=ztHopE5Wnpc)
-
-📽️ [MySQL Tutorial for Beginners](https://www.youtube.com/watch?v=7S_tz1z_5bA)
-
-📽️ [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
-
-#### OR
-
-📽️ [Database Fundamentals](https://maharatech.gov.eg/course/view.php?id=740) ***DB Design***
-
-📽️ [مقرر أساسيات قواعد البيانات - DB 1](https://www.youtube.com/playlist?list=PL37D52B7714788190)
-
-📽️ [المقرر العملى](https://www.youtube.com/playlist?list=PL85D9FC9DFD6B9484)
 
 </details>
 
@@ -141,10 +135,6 @@
 
 🌐 [Version Source Control | التحكم بالاصدارت](https://www.youtube.com/watch?v=Jaqrcw_MB9E&list=PL4n1Qos4Tb6R4guGC4oX_PZVt8E8XpvqE)
 
-> Keep Deep
->
-📖 [UML Distilled 3rd Ed](https://github.com/gcoronelc/PECI-Java-MAR-2015/blob/master/Recursos/UML%20Distilled%203rd%20Ed.pdf)
-
 </details>
 
 ## Beginner:
@@ -155,14 +145,14 @@
 
   <summary> Master your editor</summary>
 
-📹 [Phpstorm](https://laracasts.com/series/phpstorm-for-laravel-developers)
+📹 [PHPStorm](https://laracasts.com/series/phpstorm-for-laravel-developers)
 
-📽️ [Learn PHP 8 In Arabic](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq)
+📽️ [Learn PHP 8 in Arabic](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq)
 
 #### OR
 
-📽️ [Full PHP 8 Tutorial - Until 33](https://www.youtube.com/watch?v=sVbEyFZKgqk&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-) **
-Recommended
+📽️ [Full PHP 8 Tutorial - Until 33](https://www.youtube.com/watch?v=sVbEyFZKgqk&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
+***Highly Recommended***
 
 #### OR
 
@@ -176,7 +166,7 @@ Recommended
 
 ***You Need To Search After Watching Any Video***
 
-📽️ [Learn Object Oriented PHP - Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
+📽️ [Learn Object-Oriented PHP - Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
 
 #### OR
 
@@ -185,7 +175,7 @@ Recommended
 
 #### OR
 
-📽️ [Object Oriented PHP Tutorials - English](https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
+📽️ [Object-Oriented PHP Tutorials - English](https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
 
 #### OR
 
@@ -208,11 +198,11 @@ Recommended
 
 #### AND
 
-📽️ [PHP MVC Framework from scratch - English ](https://www.youtube.com/watch?v=q0JhJBYi4sw)
+📽️ [PHP MVC Framework from Scratch - English ](https://www.youtube.com/watch?v=q0JhJBYi4sw)
 
 #### OR
 
-📽️ [PHP MVC project in arabic](https://www.youtube.com/playlist?list=PL7mt2FDjAkPepYrMofOwTwxQwJSlZ8N-a)
+📽️ [PHP MVC Project in Arabic](https://www.youtube.com/playlist?list=PL7mt2FDjAkPepYrMofOwTwxQwJSlZ8N-a)
 
 #### OR
 
@@ -220,13 +210,13 @@ Recommended
 
 > After Watching The Previous You Need To Deep and Practise So Must See It
 >
-📽️ [PHP For Beginners Laracasts 2023-edition - English](https://laracasts.com/series/php-for-beginners-2023-edition)
+📽️ [PHP for Beginners Laracasts 2023-Ed - English](https://laracasts.com/series/php-for-beginners-2023-edition)
 </details>
 
 <details>
  <summary>PHP Native Projects</summary>
 
-📽️ [medical project using php and mysql and ajax - Arabic](https://www.youtube.com/watch?v=7SSAycLnrsM&list=PLe_UJpVeP8qDV8zpkvCyjOQQPKPkwZ-6p)
+📽️ [Medical Project Using PHP and MySQL and AJAX - Arabic](https://www.youtube.com/watch?v=7SSAycLnrsM&list=PLe_UJpVeP8qDV8zpkvCyjOQQPKPkwZ-6p)
 
 #### OR
 
@@ -241,29 +231,35 @@ Recommended
 <details>
  <summary>Laravel Basics</summary>
 
-📽️ [Backend Bootcamp: Laravel & Backend Introducion - Eyad Hamza](https://www.youtube.com/playlist?list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0)
+📽️ [Backend Bootcamp: Laravel & Backend Introduction - Eyad Hamza](https://www.youtube.com/playlist?list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0)
 
-📽️ [Laravel 8 From Scratch - Jeffry Way](https://laracasts.com/series/laravel-8-from-scratch) ***Highly Recommended***
+📽️ [Laravel 8 from Scratch - Jeffry Way](https://laracasts.com/series/laravel-8-from-scratch) ***Highly Recommended***
 
 #### OR
 
-📽️ [Laravel From Scratch ](https://www.youtube.com/watch?v=376vZ1wNYPA)
+📽️ [Laravel from Scratch](https://www.youtube.com/watch?v=376vZ1wNYPA)
 
 📽️ [Laravel 10 Beginners Course](https://youtube.com/playlist?list=PLqDySLfPKRn5d7WbN9R0yJA9IRgx-XBlU&si=ei_2kJF0FwaK03Ge)
+
+📖 [Laravel Up & Running](books/Matt%20Stauffer%20-%20Laravel_%20Up%20&%20Running_%20A%20Framework%20for%20Building%20Modern%20PHP%20Apps-O’Reilly%20Media%20(2019).pdf)
+
 </details>
 
 <details>
  <summary>Laravel Projects</summary>
 
-***First Watch To Know How To Apply***
+***First Watch to Know How to Apply***
 
 📽️ [Laravel 6 From Scratch](https://laracasts.com/series/laravel-6-from-scratch)
+
+📽️ [Multi-Vendor Store - Arabic](https://www.youtube.com/playlist?list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx)
+***Highly Recommended***
 
 📽️ [Laravel PHP Framework - Insta Clone](https://www.youtube.com/watch?v=ImtZ5yENzgE)
 
 📽️ [Laravel From Scratch 2022 - Laragigs](https://www.youtube.com/watch?v=MYyJ4PuL4pY&list=LL&index=3)
 
-***After That You Need To Apply Alone - Search About Templates***
+***After That You Need to Apply Alone - Search About Templates***
 
 🌐 [Like Those](https://bootstrapmade.com/bootstrap-resume-cv-templates/)
 </details>
@@ -271,13 +267,13 @@ Recommended
 <details>
  <summary>Admin Panels</summary>
 
-***Filament Is The Most Common Framework To Create Dashboard But You Free To Use Another***
+***Filament is the Most Common Framework to Create Dashboard, but You Free to Use Another***
 
 📽️ [Laravel Filament](https://www.youtube.com/playlist?list=PL6tf8fRbavl3lxHRw44aKyW0Hq2IXmxGv)
 
 📽️ [Laravel Filament Roles and Permissions](https://www.youtube.com/playlist?list=PL6tf8fRbavl2oguMj5NSrQXhsd6ztc8_O)
 
-📽️ [Filament Daily Channel For Tips](https://www.youtube.com/@FilamentDaily)
+📽️ [Filament Daily Channel for Tips](https://www.youtube.com/@FilamentDaily)
 </details>
 
 <details>
@@ -287,18 +283,18 @@ Recommended
 
 📽️ [Laravel 8 REST API With Sanctum Authentication](https://www.youtube.com/watch?v=MT-GJQIY3EU&t=2127s)
 
-📽️ [Laravel API Crash Course For Beginners](https://www.youtube.com/watch?v=xvqPEEpRBJ4&list=LL&index=3&t=11s)
+📽️ [Laravel API Crash Course for Beginners](https://www.youtube.com/watch?v=xvqPEEpRBJ4&list=LL&index=3&t=11s)
 
 📽️ [Laravel MentorSHIP: Travel API](https://www.youtube.com/playlist?list=PLdXLsjL7A9k2utMAieXUnUP8zyxaDA3mP)
-***Recommended After One Or Two Videos Watched***
+***Recommended after One or Two Videos Watched***
 </details>
 
-> ***Here You Need To Search About API Documentation***
+> ***Here You Need to Search About API Documentation***
 
 ## Intermediate:
 
 <details>
-  <summary>Read about Laravel best practices & Tips</summary>
+  <summary>Read About Laravel Best Practices & Tips</summary>
 
 📄 [Laravel Best Practices Repository](https://github.com/alexeymezenin/laravel-best-practices)
 
@@ -326,7 +322,7 @@ OR
 </details>
 <details>
 
-  <summary>Laravel package development</summary>
+  <summary>Laravel Package Development</summary>
 
 📹 [Laravel Package Development](https://www.youtube.com/playlist?list=PLpzy7FIRqpGBQ_aqz_hXDBch1aAA-lmgu)
 
@@ -334,9 +330,9 @@ OR
 
 <details>
 
-  <summary>Useful laravel packages</summary>
+  <summary>Useful Laravel Packages</summary>
 
-📹 [Laravel packages](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
+📹 [Laravel Packages](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
 
 
 </details>
@@ -394,7 +390,7 @@ OR
 
 ##### Videos
 
-📹 [Mosh  Design Pattern](https://www.youtube.com/watch?v=NU_1StN5Tkk&ab_channel=ProgrammingwithMosh)
+📹 [Mosh Design Pattern](https://www.youtube.com/watch?v=NU_1StN5Tkk&ab_channel=ProgrammingwithMosh)
 
 📹 [Arabic SOLID Principle](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL)
 
@@ -432,7 +428,7 @@ OR
 
 📖 [Clean Code](https://github.com/ontiyonke/book-1/blob/master/%5BPROGRAMMING%5D%5BClean%20Code%20by%20Robert%20C%20Martin%5D.pdf)
 
-📖 [Refactoring To Patterns](https://github.com/abhinavkorpal/awesome-computer-science-EBook/blob/master/DesignPatterns/Refactoring%20To%20Patterns%20-%20Joshua%20Kerievsky.pdf)
+📖 [Refactoring to Patterns](https://github.com/abhinavkorpal/awesome-computer-science-EBook/blob/master/DesignPatterns/Refactoring%20To%20Patterns%20-%20Joshua%20Kerievsky.pdf)
 
 📖 [Martin Fowler](https://martinfowler.com/books/)
 
@@ -444,7 +440,7 @@ OR
 
 <summary> CI CD </summary> 
 
-📹 [Continuous Integration And Continuous Delivery](https://www.youtube.com/watch?v=h9K1NnqwUvE&ab_channel=Simplilearn)
+📹 [Continuous Integration and Continuous Delivery](https://www.youtube.com/watch?v=h9K1NnqwUvE&ab_channel=Simplilearn)
 
 
 </details>
@@ -453,7 +449,7 @@ OR
 
 <summary>  Container </summary> 
 
-📹 [Docker - Free Code Camp - English](https://www.youtube.com/watch?v=fqMOX6JJhGo&ab_channel=freeCodeCamp.org)
+📹 [Docker - FreeCodeCamp - English](https://www.youtube.com/watch?v=fqMOX6JJhGo&ab_channel=freeCodeCamp.org)
 
 📹 [Docker - TechWorld with Nana - English](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana)
 
@@ -465,7 +461,7 @@ OR
 
 <summary>  Cloud </summary> 
 
-📹 [AWS - Free Code Camp](https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org)
+📹 [AWS - FreeCodeCamp](https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org)
 
 </details>
 
@@ -473,11 +469,11 @@ OR
 
 <summary>Deployment</summary> 
 
-📹 [Deploy on digital oceans](https://www.youtube.com/watch?v=QnNA7YdvCYA&list=PLseEp7p6EwiZrR_9dzp8d3AVcBqPz-HFZ&index=3)
+📹 [Deploy on Digital Oceans](https://www.youtube.com/watch?v=QnNA7YdvCYA&list=PLseEp7p6EwiZrR_9dzp8d3AVcBqPz-HFZ&index=3)
 
-📹 [Deploy on shared hosting](https://www.youtube.com/watch?v=6g8G3YQtQt4)
+📹 [Deploy on Shared Hosting](https://www.youtube.com/watch?v=6g8G3YQtQt4)
 
-  </details>
+</details>
 
 
 
